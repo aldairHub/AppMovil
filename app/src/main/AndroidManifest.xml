@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.App1">
         <activity
+            android:name=".mostrarDatos"
+            android:exported="false" />
+        <activity
             android:name=".registro"
             android:exported="false" />
         <activity
